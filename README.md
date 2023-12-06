@@ -29,19 +29,32 @@ MIST 4610 9:35-10:50 Group 9
 
 # QUESTION 1
 
+QUESTION: "Which make of car has the highest rate of purchase for each type of electric vehicle in Washington?"
+
+SIGNIFIGANCE: 
+
+PHEV's:
+
+## INSERT PICS HERE
+
+BEV's:
+
+## INSERT PICS HERE
 
 # QUESTION 2
 
-QUESTION: 
+QUESTION: "Which make of car has the highest rate of purchase for each type of electric vehicle in Washington?"
 
-PHEV's
+SIGNIFIGANCE: 
+
+PHEV's:
 
 <img width="625" alt="PHEV Heat" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/8e05031c-e25e-4782-ade9-9079f7c62fe4">
 
 <img width="622" alt="PHEV Pie" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/4ed587df-8491-447f-a16e-983c7dbee0e2">
 
 
-BEV's
+BEV's:
 
 <img width="623" alt="BEV Pie" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/76780a04-01aa-4f3e-afdf-5b222d79e996">
 
