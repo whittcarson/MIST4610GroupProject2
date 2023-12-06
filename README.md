@@ -48,6 +48,7 @@ Is there a correlation between newer PHEV and BEV car models and longer electric
 "Which make of car has the highest rate of purchase for each type of electric vehicle in Washington?"
 
 ## SIGNIFIGANCE: 
+This question and the relevant data are signifigant as it allows one to understand who the market leaders are for both PHEV's and BEV's. By understanding who the market leaders are in the electric car market, consumers can make more informed decisions on what kind of electric vehicle to purchase. In the mind of many consumers, BEV's and PHEV's with more marketshare are better options than BEV's and PHEV's with less marketshare. 
 
 ## PHEV's:
 
