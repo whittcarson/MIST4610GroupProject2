@@ -29,7 +29,8 @@ MIST 4610 9:35-10:50 Group 9
 
 # QUESTION 1
 
-## QUESTION: "Which make of car has the highest rate of purchase for each type of electric vehicle in Washington?"
+## QUESTION: 
+Is there a correlation between newer PHEV and BEV car models and longer electric car ranges? And if so, how significant is that correlation?
 
 ## SIGNIFIGANCE: 
 
