@@ -33,7 +33,7 @@ MIST 4610 9:35-10:50 Group 9
 Is there a correlation between newer PHEV and BEV car models and longer electric car ranges? And if so, how significant is that correlation?
 
 ### SIGNIFIGANCE: 
-
+The general signifigance of this question lies with the consumer in the electric vehicle market, especially in areas similar to the state of Washington. The answer to this question provides potential consumers information regarding the relationship between newer car models and electric car range among Plug-in Hybrid Electric Vehicles (PHEV) and Battery Electric Vehicles (BEV). Depending on which car model the consumer prefers, this information would help them consider if purchasing a newer car model will generally lead to improved range on their vehicle.
 ### GRAPH
 <img width="624" alt="AvgRangeBy Year" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/e523276f-b4bf-4d67-8a8a-17866cbaeadd">
 
