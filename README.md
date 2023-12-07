@@ -25,7 +25,7 @@ MIST 4610 9:35-10:50 Group 9
    REPO: https://github.com/purwplhaze/mist4610_project1
 
 # DESCRIPTION OF DATASET
-
+This dataset represents Battery Electric Vehicles and Plug-in Hybrid Vehicles that are currently registered through the Washington Department of Licensing. We obtained the dataset from the website provided: (https://catalog.data.gov/dataset/electric-vehicle-population-data). The varying datatypes include the make and model of the car, VIN number,and electric vehicle type; these data types are string. Numeric measurements such as the electric vehicle range and base MSRP are of datatype number(whole), with the date of the model of the car being of datatype date & time. This dataset helps us depict the reality of electric vehicles within the state of Washington within the period of 1997 to present day and draw conclusions for consumers based upon this dataset.
 
 # QUESTION 1
 
@@ -33,12 +33,17 @@ MIST 4610 9:35-10:50 Group 9
 Is there a correlation between newer PHEV and BEV car models and longer electric car ranges? And if so, how significant is that correlation?
 
 ### SIGNIFIGANCE: 
+The general signifigance of this question lies with the consumer in the electric vehicle market, especially in areas similar to the state of Washington. The answer to this question provides potential consumers information regarding the relationship between newer car models and electric car range among Plug-in Hybrid Electric Vehicles (PHEV) and Battery Electric Vehicles (BEV). Depending on which car model the consumer prefers, this information would help them consider if purchasing a newer car model will generally lead to improved range on their vehicle.
 
-### GRAPH
+### GRAPH 1
 <img width="624" alt="AvgRangeBy Year" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/e523276f-b4bf-4d67-8a8a-17866cbaeadd">
 
 
 After viewing the results of the first diagram, we filtered the data to include only the top 20 makes of cars with model year 2008 or later. This change aided in eliminating outliers and void space on the visual from the years 1996-2007. Our results show a similar trend to the initial graph for each vehicle type. BEVs have a large uptick in their average range starting in 2008 and peaking at 245 average miles in 2010. Then 2011 still showed a steep decline in efficiency, followed by a positive trend until peaking again in 2020 at approximately 278 miles average for Battery Electric Vehicles. The Plug-In Hybrid Electric Vehicles are not nearly as efficient in terms of average range, but, notably, their data mirrors the spike in 2010 with a following drop. Also, as in the first visual, the data shows that PHEVs never received the attention in development to exceed that previous peak as the BEV trend shows. A separate detail on the tail end of the diagram after 2020. PHEVS’ continue their slight up-and-down trend, but there is very little or zero data for BEVs. This is mainly due to a lack of owners buying newer vehicles around this time.
+
+### GRAPH 2
+![Q1 Line](https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/1755bacb-1ad4-4114-9779-894468a8c785)
+
 
 
 # QUESTION 2
