@@ -36,14 +36,17 @@ Is there a correlation between newer PHEV and BEV car models and longer electric
 The general signifigance of this question lies with the consumer in the electric vehicle market, especially in areas similar to the state of Washington. The answer to this question provides potential consumers information regarding the relationship between newer car models and electric car range among Plug-in Hybrid Electric Vehicles (PHEV) and Battery Electric Vehicles (BEV). Depending on which car model the consumer prefers, this information would help them consider if purchasing a newer car model will generally lead to improved range on their vehicle.
 
 ### GRAPH 1
+
+![Q1 Line](https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/1755bacb-1ad4-4114-9779-894468a8c785)
+
+After analyzing the average electric range of cars from this dataset by manufacturing year and type, we can infer that there is a general significant increase in the electric range of Battery Electric Vehicle (BEV) models created from 2000 to 2010 of over 240 miles on average. Post 2010 there was actually a sharp decline in average electric range temporarily, with a steady recovery to the rate we saw in 2010 models. We can also see that by 2020, the average electric range of new BEV’s surpassed that of any year in Washington. Also included and labeled in orange are Plug-in Hybrid Electric Vehicles (PHEV). Although we want to focus on the fully electric cars labeled in blue, it is interesting to note that the average electric range of hybrids also declined for models after 2010 yet did not experience the same recovery in 2020 model in the state.
+
+### GRAPH 2
+
 <img width="624" alt="AvgRangeBy Year" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/e523276f-b4bf-4d67-8a8a-17866cbaeadd">
 
 
 After viewing the results of the first diagram, we filtered the data to include only the top 20 makes of cars with model year 2008 or later. This change aided in eliminating outliers and void space on the visual from the years 1996-2007. Our results show a similar trend to the initial graph for each vehicle type. BEVs have a large uptick in their average range starting in 2008 and peaking at 245 average miles in 2010. Then 2011 still showed a steep decline in efficiency, followed by a positive trend until peaking again in 2020 at approximately 278 miles average for Battery Electric Vehicles. The Plug-In Hybrid Electric Vehicles are not nearly as efficient in terms of average range, but, notably, their data mirrors the spike in 2010 with a following drop. Also, as in the first visual, the data shows that PHEVs never received the attention in development to exceed that previous peak as the BEV trend shows. A separate detail on the tail end of the diagram after 2020. PHEVS’ continue their slight up-and-down trend, but there is very little or zero data for BEVs. This is mainly due to a lack of owners buying newer vehicles around this time.
-
-### GRAPH 2
-![Q1 Line](https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/1755bacb-1ad4-4114-9779-894468a8c785)
-
 
 
 # QUESTION 2
@@ -68,7 +71,7 @@ This question and the relevant data are signifigant as it allows one to understa
 <img width="625" alt="BEV Heat" src="https://github.com/whittcarson/MIST4610GroupProject2/assets/131502055/748ac9a2-1c8f-40ba-84a8-b823729e8006">
 
 # MANIPULATIONS
-We did not manipulate any raw data, but we did apply measurable functions to certain columns. For example, we applied the count function to "Electric Vehicle Range" in Q1 in order to show the number of EV types and discrepancies between EV makes. Also, we applied the average function to "Electric Range '' in Q2 to set a standard for comparing the electric range year-after-year in the graph. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
+We did not manipulate any raw data, but we did filter out irrelevant data and apply measurable functions to certain columns. In Q1, we filtered data to only include the top 20 makes of EVs with model year 2008 or later. We also applied the average function to "Electric Range" in order to set a standard for comparing the electric range of electric vehicle types year-after-year. For Q2, we applied the count function to "Electric Vehicle Type" in order to compare the amount of EV types manufactured for each make. All filters/marks applied to the data are solely intended to show the viewer quantifiable information related to the questions. In regards to integrity, our data has no inaccuracies, irrelevancies, or 3rd party imports.
 
 # TABLEAU PACKAGED WORKBOOK
 The Tableau Packaged Workbook featuring these graphs and the dataset is attached in the repository.
